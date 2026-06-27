@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Custom Lip Balm Store
+Website: https://www.customlipbalmstore.com/
+Location: N/A
+
+//* SITE */
+Published: 2026-06-27
+Language: English
+Doctype: HTML5
